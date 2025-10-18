@@ -41,11 +41,11 @@ const AboutSection = () => {
             <div className="relative inline-block mb-8">
               <motion.div whileHover={{ scale: 1.05 }} transition={{ duration: 0.3 }} className="relative">
                 <img
-                  src="/Krish.jpg?height=300&width=300"
+                  src="/WhatsApp Image 2025-10-18 at 3.13.04 PM.jpeg?height=300&width=300"
                   alt="Profile"
                   className="w-64 h-64 rounded-full object-cover mx-auto lg:mx-0 shadow-2xl"
                 />
-                <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-600/20 to-purple-600/20"></div>
+                <div className="absolute inset-0 rounded-full"></div>
               </motion.div>
             </div>
           </motion.div>

@@ -33,11 +33,11 @@ const ProjectsSection = () => {
     },
     {
       id: 2,
-      title: "Task Management App",
-      shortDescription: "Collaborative task management with real-time updates",
+      title: "Tranding Recommondation System",
+      shortDescription: "Suggest best trading recommondation for market analysis",
       fullDescription:
-        "A modern task management application inspired by Trello and Asana. Built with React and Firebase, it features real-time collaboration, drag-and-drop functionality, team management, and progress tracking. Perfect for agile teams and project management.",
-      image: "/placeholder.svg?height=300&width=500",
+        "Mainly the trading recomendation and suggestion for all the required solution and task and evalutation.",
+      image: "/Recommendation-Systems.png?height=300&width=500",
       tech: ["React", "Firebase", "Redux", "Material-UI", "React DnD"],
       github: "https://github.com/johndoe/taskmanager",
       live: "https://taskmanager-demo.vercel.app",
@@ -52,11 +52,11 @@ const ProjectsSection = () => {
     },
     {
       id: 3,
-      title: "Weather Dashboard",
+      title: "Graphical password recommendation",
       shortDescription: "Beautiful weather app with location-based forecasts",
       fullDescription:
         "An elegant weather dashboard that provides detailed weather information, forecasts, and beautiful visualizations. Uses OpenWeatherMap API for accurate data and includes features like location detection, favorite cities, and weather alerts.",
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/Graphical_password_recommendation.png?height=300&width=500",
       tech: ["React", "TypeScript", "Chart.js", "OpenWeather API", "Styled Components"],
       github: "https://github.com/johndoe/weather-dashboard",
       live: "https://weather-dashboard-demo.vercel.app",
@@ -75,7 +75,7 @@ const ProjectsSection = () => {
       shortDescription: "Analytics dashboard for social media management",
       fullDescription:
         "A comprehensive social media analytics dashboard that helps businesses track their social media performance across multiple platforms. Features include engagement metrics, audience insights, content scheduling, and detailed reporting.",
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/Jwellery.png?height=300&width=500",
       tech: ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Chart.js", "NextAuth"],
       github: "https://github.com/johndoe/social-dashboard",
       live: "https://social-dashboard-demo.vercel.app",
